@@ -1,0 +1,18 @@
+<HTML>
+    <HEAD>
+        <TITLE>
+              HTML CODINGS OF FILES
+        </TITLE>
+    </HEAD>
+                  <FONT FACE="MANY WEATZ" SIZE="6" > <H1 ALIGN="CENTER" ><I>CLICK TO SEE HTML CODES</I></H1></FONT>
+             <HR SIZE=7 NOSHADE COLOR=#FF7800 WIDTH =50%>
+			 
+  <BODY ALINK="RED" VLINK="GREEN" LINK="BLUE" background="background - Copy.jpg" topmargin = 10 leftmargin=130>
+  <center>
+ <a href="The Rowlatt Act.TXT"> The Rowlatt Act</A>|
+ <a href="Civil Disobedience.TXT"> Civil Disobedience</A>|
+ | <a href="The Sense of Collective Belonging.TXT">The Sense of Collective Belonging</A>|
+  <a href="Conclusion.TXT"> Conclusion</A>|
+  
+  <a href="ABOUT ME.TXT"> FeedBack</A>| 
+  </center>
